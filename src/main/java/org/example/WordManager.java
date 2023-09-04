@@ -20,7 +20,7 @@ public class WordManager {
         +"7. 파일 저장\n"
         +"0. 나가기\n"
                 +"*******************\n"
-    +"=> 원하는 메뉴는?\n");
+    +"=> 원하는 메뉴는? ");
 
         return s.nextInt();
     }
@@ -34,6 +34,12 @@ public class WordManager {
                  }
             else if(menu==1) {
                 wordCRUD.listAll();
+            }
+            else if(menu==2) {
+                wordCRUD.searchLevel();
+            }
+            else if(menu==3) {
+                wordCRUD.searchWord();
             }
             else if(menu==5){
                 wordCRUD.updateItem();

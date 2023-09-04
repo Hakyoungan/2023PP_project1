@@ -63,6 +63,6 @@ public class Word { //데이터클레스
         return str;
     }
     public String toFileString(){
-        return this.level + "|" + this.word + "|" + this.meaning
+        return this.level + "|" + this.word + "|" + this.meaning;
     }
 }
