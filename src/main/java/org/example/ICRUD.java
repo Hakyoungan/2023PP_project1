@@ -1,9 +1,13 @@
 package org.example;
 
 public interface ICRUD {
-    public Object add();
-    public int update(Object obj);
-    public int delete(Object obj);
-    public void selectOne(int id);//한개 조회
+    public void addItem();
+    public void updateItem();
+    public void deleteItem();
+    public void loadFile();
+    public void saveFile();
+    public void searchLevel();
+    public void searchWord();
+
 }
 
