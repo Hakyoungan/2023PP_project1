@@ -10,6 +10,7 @@
 8. 나가기
 
 중간점검: 모든 단어 보기, 단어 추가, 나가기 기능 구현
+
 <img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/screens1.png?raw=true">
 
 <img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/screens2.png?raw=true">
