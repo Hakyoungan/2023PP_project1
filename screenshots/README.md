@@ -26,12 +26,24 @@
 
 수준별 단어 보기
 
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/level.png?raw=true">
+
 단어 검색
+
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/search.png?raw=true">
 
 단어 수정
 
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/update.png?raw=true">
+
 단어 삭제
+
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/delete.png?raw=true">
 
 파일 저장 
 
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/saveFile.png?raw=true">
+
 파일 읽기
+
+<img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/loadFile.png?raw=true">
