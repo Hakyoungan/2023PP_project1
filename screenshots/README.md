@@ -23,3 +23,15 @@
 <img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/screens5.png?raw=true">
 
 <img width = "200" src="https://github.com/Hakyoungan/2023PP_project1/blob/main/screenshots/screens6.png?raw=true">
+
+수준별 단어 보기
+
+단어 검색
+
+단어 수정
+
+단어 삭제
+
+파일 저장 
+
+파일 읽기
